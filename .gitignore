@@ -1,0 +1,6 @@
+# Git ignoring files
+# @see https://help.github.com/ignore-files/ for more about ignoring files.
+
+## misc
+.idea/*
+.vscode/*
